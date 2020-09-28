@@ -8,7 +8,7 @@ This is the basic CAD module.
 ### The assignment
 
 ### Picture
-<img src="Images/Base%20Part%201.png" alt="Base Part" width="200" height="200">
+<img src="Images/base%20part%201.png" alt="Base Part" width="200" height="200">
 
 ### Link to onshape
 
