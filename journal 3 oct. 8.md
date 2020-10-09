@@ -10,7 +10,7 @@ https://cad.onshape.com/documents/82a2901b6145727a69d7f90e/w/5255fa6542bb145b992
 
 ### These are my images of them.
 
-<img src=="Images/big bearing.png" alt="big bearing" width="200" height="200">
+<img src="Images/big bearing.png" alt="big bearing" width="200" height="200">
 
 <img src="Images/wheelwithaxle.png" alt="Wheel with axle" width="200" height="200">
 
