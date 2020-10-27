@@ -9,4 +9,4 @@ https://cad.onshape.com/documents/f2a0f82b863076f8b2091205/w/83a67bf825561e2a1ab
 
 ---
 
-### As a reflection of this week I think I should over think like I did last week and kept putting it off and think of it more simply like I did this week and I can get alot more work done.
+### As a reflection of this week I think I shouldnt over think like I did last week and kept putting it off and think of it more simply like I did this week and I can get alot more work done.
