@@ -22,7 +22,7 @@ https://create.arduino.cc/editor/Eplehn59/b1272930-5070-4b1a-9cca-4dba03afc185/p
 
 ### December 4th
 
-#### This week I got my hello functions assignment to work.
+#### This week I got my hello functions assignment to work by makin the servo spin when my hand got close enough.
 
 ### This is the link to my code
 https://create.arduino.cc/editor/Eplehn59/97bce5b0-2631-464a-a0d6-f74aaafb24c5/preview
