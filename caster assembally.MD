@@ -31,12 +31,12 @@ https://create.arduino.cc/editor/Eplehn59/97bce5b0-2631-464a-a0d6-f74aaafb24c5/p
 
 ### Dec 11
 
-### This week I made A LED turn on every time I put my hand within a certain and turned off when outside that distance.
+This week I made A LED turn on every time I put my hand within a certain and turned off when outside that distance.
 
 ### This is the code for my arduino.
-https://create.arduino.cc/editor/Eplehn59/e8246a8f-2a06-49c8-a7cb-751071440ec3/preview
+[link to code](https://create.arduino.cc/editor/Eplehn59/e8246a8f-2a06-49c8-a7cb-751071440ec3/preview)
 
-### While doing this I realized the purpose of functions and how much they matter, but I also figured out how to mix and match code I found online.
+While doing this I realized the purpose of functions and how much they matter, but I also figured out how to mix and match code I found online.
 
 ### Jan 25
 
